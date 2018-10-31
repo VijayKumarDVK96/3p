@@ -24,7 +24,7 @@
 	<?php include('header.php'); ?>
 	
 	<!-- Banner -->
-    <object type="image/svg+xml" data="images/banner.svg" width="100%">Browser does not support SVG</object>
+    <object type="image/svg+xml" data="images/banner.svg" width="100%">Your Browser does not support SVG</object>
 
 
 	<!-- Features -->
